@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/QtGraphApp">
+        <file>Resources/NewNodeIconTransparent.png</file>
+        <file>Resources/NewConnectionIcon.png</file>
+    </qresource>
+</RCC>
